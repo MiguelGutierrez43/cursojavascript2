@@ -24,5 +24,5 @@ console.log("El resultado de la división es : " + respuestadivision);
 respuestasuma ++;
 console.log("Incrementamos ++ " + respuestasuma);
 
-respuestaresta --;
+respuestasuma --;
 console.log("Restamos -- " + respuestasuma);
