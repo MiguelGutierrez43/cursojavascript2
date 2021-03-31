@@ -6,7 +6,7 @@ $(document).ready(function () {
     span.css('border', '1px solid blue' );
     console.log(span.text());
 
-
+    //Selector de atributos
     var atributo = $('[title = "google"]');
     atributo.css('font-size', '50px');
     console.log(atributo.text());
